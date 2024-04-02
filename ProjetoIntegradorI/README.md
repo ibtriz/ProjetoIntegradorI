@@ -52,9 +52,8 @@ Para executar o TemEmCasa! localmente, siga estas etapas:
 git clone https://github.com/ibtriz/ProjetoIntegradorI.git
 
 2. Navegue até o diretório do projeto:
-```
-bash ProjetoIntegradorI
-```
+
+``` cd ProjetoIntegradorI```
 
 
 3. Abra o arquivo `index.html` em um navegador da web:
