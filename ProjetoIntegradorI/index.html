@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TemEmCasa!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">TemEmCasa</a></li>
+                <li><a href="#despensa">Despensa</a></li>
+                <li><a href="#lista-de-compras">Lista de Compras</a></li>
+                <li><a href="#usuario">Membro da Família:</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>TemEmCasa</h1>
+            <p>Seja bem-vindo ao TemEmCasa! Aqui você pode organizar sua despensa e sua lista de compras de forma prática e eficiente.</p>
+            <button>
+                <a href="#lista-de-compras">Ver a lista de compras</a>
+            </button>
+            <img src="img-home.svg" alt="Página Inicial">
+        </section>
+
+        <section id="despensa">
+            <h2>Despensa da Família Silva</h2>
+            <table class="Tabelas-de-itens">
+                <thead>
+                    <tr>
+                        <th>Itens</th>
+                        <th>Categoria</th>
+                        <th>Quantidade</th>
+                        <th>Editar</th>
+                        <th>Excluir</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Sabão</td>
+                        <td>Alimentos</td>
+                        <td>2</td>
+                        <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                        <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                    </tr>
+                    <tr>
+                        <td>Papel Higiênico</td>
+                        <td>Limpeza</td>
+                        <td>7</td>
+                        <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                        <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                    </tr>
+                    <tr>
+                        <td>Detergente</td>
+                        <td>Limpeza</td>
+                        <td>1</td>
+                        <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                        <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="button-adicionar-item">
+                <a href="adicionar-item.html">Adicionar Item</a>
+            </button>
+        </section>
+
+        <section id="lista-de-compras">
+            <h2>Lista de Compras da Família Silva</h2>
+            <table class="Tabelas-de-itens">
+                    <thead>
+                        <tr>
+                            <th>Itens</th>
+                            <th>Categoria</th>
+                            <th>Quantidade</th>
+                            <th>Editar</th>
+                            <th>Excluir</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Sabão</td>
+                            <td>Alimentos</td>
+                            <td>2</td>
+                            <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                            <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                        </tr>
+                        <tr>
+                            <td>Papel Higiênico</td>
+                            <td>Limpeza</td>
+                            <td>7</td>
+                            <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                            <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                        </tr>
+                        <tr>
+                            <td>Detergente</td>
+                            <td>Limpeza</td>
+                            <td>1</td>
+                            <td><img src="clarity_edit-line.svg" alt="Editar"></td>
+                            <td><img src="akar-icons_trash-can.svg" alt="Excluir"></td>
+                        </tr>
+                    </tbody>
+            </table>
+            <button>
+                <a href="adicionar-item.html">Adicionar Item</a>
+            </button>
+        </section>
+    </main>
+
+    <footer>
+        <h1>Obrigado por utilizar o TemEmCasa!</h1>
+        <p>O TemEmCasa! é parte do Projeto Integrador I, desenvolvido pelo Grupo DRP01 da Universidade Virtual do Estado de São Paulo (UNIVESP). Agradecemos o apoio e colaboração de todos os envolvidos nesta jornada rumo ao conhecimento e à inovação.</p>
+        <p>Desenvolvido por: Beatriz, Carla, Flaviele, Jalvo e Marcelo.</p>
+        <p>Projeto Integrador I - 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
