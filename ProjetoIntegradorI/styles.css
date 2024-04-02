@@ -1,4 +1,3 @@
-/* Estilos gerais */
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #496989;
@@ -25,13 +24,11 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* Estilos de seções */
 section {
     padding: 20px; /* Espaçamento interno entre as seções */ 
     text-align: center;
 }
 
-/* Estilos de botões */
 button, .button-adicionar-item {
     background-color: #58A399;
     border: none;
@@ -53,7 +50,6 @@ button a, .button-adicionar-item a {
     padding-right: 20px; /* Alinha os botões à direita */
 }
 
-/* Estilos de imagens */
 img {
     max-width: 100%;
     height: auto;
@@ -61,12 +57,11 @@ img {
     margin: 20px auto;
 }
 
-/* Estilos de footer */
 footer {
     background-color: #58A399; /* Cor de fundo */
     color: #fff; /* Cor do texto */
     padding: 20px; /* Espaçamento interno */
     bottom: 0; /* Posiciona a footer no fundo da página */
     width: 100%; /* Largura total */
-    text-align: center; /* Alinhamento do texto centralizado */
+    text-align: left; /* Alinhamento do texto centralizado */
 }

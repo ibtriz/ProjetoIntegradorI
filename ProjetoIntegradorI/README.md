@@ -40,7 +40,7 @@ Essas funcionalidades visam proporcionar aos usuários uma maneira conveniente d
 
 ## Protótipo no Figma
 
-![Página inicial do TemEmCasa!](img-Desktop.jpg)
+![Página inicial do TemEmCasa!](icons/img-Desktop.jpg)
 
 [Veja o Protótipo no Figma](https://www.figma.com/file/CRQCCnP5GnzMxJLswdadb1/Prot%C3%B3tipo-LandingPage-PI?type=design&node-id=1%3A2&mode=design&t=kYdDBsKGUnv6Oht6-1)
 
@@ -49,11 +49,11 @@ Essas funcionalidades visam proporcionar aos usuários uma maneira conveniente d
 Para executar o TemEmCasa! localmente, siga estas etapas:
 
 1. Clone o repositório do TemEmCasa! para o seu computador:
-git clone https://github.com/ibtriz/UniCourseProjects.git
+git clone https://github.com/ibtriz/ProjetoIntegradorI.git
 
 2. Navegue até o diretório do projeto:
    ```bash
-   UniCourseProjects
+ ProjetoIntegradorI
    ```
 
 3. Abra o arquivo `index.html` em um navegador da web:
@@ -68,7 +68,12 @@ git clone https://github.com/ibtriz/UniCourseProjects.git
 
 ## Contribuidores
 
-- Beatriz Francelino (@ibtriz)
+- [Beatriz Francelino Borges Carneiro](https://github.com/ibtriz)
+- [Carla Nunes Dias]
+- [Flaviele de Souza Cavalcanti]
+- [Jalvo Alef Oliveira dos Santos]
+- [Marcelo Hideki Yamane]
+
 
 
 ## Agradecimentos
