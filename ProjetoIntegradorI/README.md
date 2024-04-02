@@ -44,20 +44,16 @@ Essas funcionalidades visam proporcionar aos usuários uma maneira conveniente d
 
 [Veja o Protótipo no Figma](https://www.figma.com/file/CRQCCnP5GnzMxJLswdadb1/Prot%C3%B3tipo-LandingPage-PI?type=design&node-id=1%3A2&mode=design&t=kYdDBsKGUnv6Oht6-1)
 
-Claro, aqui está o trecho formatado em Markdown:
-
 ## Como Começar
 
 Para executar o TemEmCasa! localmente, siga estas etapas:
 
 1. Clone o repositório do TemEmCasa! para o seu computador:
-   ```bash
-   git clone https://github.com/ibtriz/nome-do-repositorio.git
-   ```
+git clone https://github.com/ibtriz/UniCourseProjects.git
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   UniCourseProjects
    ```
 
 3. Abra o arquivo `index.html` em um navegador da web:
@@ -66,7 +62,6 @@ Para executar o TemEmCasa! localmente, siga estas etapas:
 
 4. Agora você pode explorar e interagir com o TemEmCasa! localmente em seu próprio ambiente de desenvolvimento.
 
-Certifique-se de ter um navegador da web instalado em seu computador para visualizar o projeto. Como o TemEmCasa! utiliza apenas HTML, CSS e JavaScript, não é necessário nenhum servidor de back-end para executá-lo localmente.
 ## Captura de Tela
 
 
