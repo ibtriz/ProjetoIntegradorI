@@ -27,8 +27,6 @@ Essas funcionalidades visam proporcionar aos usuários uma maneira conveniente d
 
 ## Protótipo no Figma
 
-## Protótipo no Figma
-
 ![Página inicial do TemEmCasa!](ProjetoIntegradorI/icons/img-Desktop.jpg)
 
 [Veja o Protótipo no Figma](https://www.figma.com/file/CRQCCnP5GnzMxJLswdadb1/Prot%C3%B3tipo-LandingPage-PI?type=design&node-id=1%3A2&mode=design&t=kYdDBsKGUnv6Oht6-1)
@@ -91,7 +89,7 @@ Agora você pode explorar e interagir com o TemEmCasa! localmente em seu própri
 
 ## Captura de Tela
 
-(Incluir captura de tela aqui)
+![Página inicial do TemEmCasa!](ProjetoIntegradorI/icons/img-Desktop.png)
 
 ## Contribuidores
 
